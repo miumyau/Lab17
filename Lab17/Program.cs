@@ -10,7 +10,7 @@
             account2.Input();
             account1.GetInfo();
             account2.GetInfo();
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
